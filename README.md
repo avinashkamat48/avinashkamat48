@@ -5,7 +5,7 @@
 <br />
 <br />
 
-<img src="./assets/loves-is-girlfriend-banner.jpg" alt="loves his girlfriend banner" width="100%" />
+<img src="./assets/hand-heart-banner.jpg" alt="black and white hand heart banner" width="100%" />
 
 <br />
 
