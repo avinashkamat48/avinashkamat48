@@ -33,7 +33,7 @@
 currently
   shipping small, useful changes
   learning through real open-source work
-  building calm tools and clean interfaces
+  building calm tools
 
 stack
   typescript  react  next.js  python  git
